@@ -5,6 +5,18 @@ The catalog contains 1,345 events detected using the Maximum Filter Template Mat
 
 ---
 
+## 📑 Table of Contents
+
+- [File Description](#-file-description)
+- [Column Description](#-column-description)
+- [Data Completeness and Missing Values](#-data-completeness-and-missing-values)
+- [Methods Summary](#-methods-summary)
+- [Citation](#-citation)
+- [License](#-license)
+- [Contact](#-contact)
+
+---
+
 ## 📁 File Description
 
 **Haenam_2020_catalog_v1.0.csv**
@@ -90,7 +102,7 @@ Specify the license here (e.g., CC-BY 4.0).
 
 For questions regarding the dataset, please contact:  
 [Bohyun Kim]  
-[Choonnam National University, Department of Geological and Environmental Sciences, Seismological Lab]  
+[Chonnam National University, Department of Geological and Environmental Sciences, Seismological Lab]  
 [kbobo51@jnu.ac.kr]
 
 ---
