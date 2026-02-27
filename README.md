@@ -48,6 +48,7 @@ Time standard: UTC
 | lat_kma | Latitude reported by KMA | degree |
 | lon_kma | Longitude reported by KMA | degree |
 | depth_kma | Depth reported by KMA | km |
+| M_kma | Local Magnitude reported by KMA | - |
 
 ---
 ## 📊 Data Completeness and Missing Values
@@ -66,7 +67,7 @@ Time standard: UTC
   - Events not relocated by hypoDD contain `NaN` in these columns.
     
 - **KMA catalog information**
-  - Hypocentral parameters reported by the Korea Meteorological Administration (`lat_kma`, `lon_kma`, `depth_kma_km`) are provided only for events catalogued in the KMA catalog.
+  - Hypocentral parameters reported by the Korea Meteorological Administration (`lat_kma`, `lon_kma`, `depth_kma_km`, `M_kma`) are provided only for events catalogued in the KMA catalog.
   - Events not reported by KMA contain `NaN` in these fields.
 
 - All missing values are represented as `NaN`.
